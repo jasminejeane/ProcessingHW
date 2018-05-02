@@ -104,6 +104,46 @@ public class Main {
 //        }
 //    }
 
+
+//    Colors
+
+//    fill(255,0,0);
+//    ellipse(20,20,16,16);
+//
+//    // Dark red
+//    fill(127,0,0);
+//    ellipse(40,20,16,16);
+//
+//    // Pink (pale red)
+//    fill(255,200,200);
+//    ellipse(60,20,16,16);
+
+
+//    Example: Alpha transparency
+//    size(200,200);
+//    background(0);
+//    noStroke();
+//
+//    // No fourth argument means 100% opacity.
+//    fill(0,0,255);
+//    rect(0,0,100,200);
+//
+//    // 255 means 100% opacity.
+//    fill(255,0,0,255);
+//    rect(0,0,200,40);
+//
+//    // 75% opacity.
+//    fill(255,0,0,191);
+//    rect(0,50,200,40);
+//
+//    // 55% opacity.
+//    fill(255,0,0,127);
+//    rect(0,100,200,40);
+//
+//    // 25% opacity.
+//    fill(255,0,0,63);
+//    rect(0,150,200,40);
+
     public static void main(String[] args) {
 	// write your code here
     }
